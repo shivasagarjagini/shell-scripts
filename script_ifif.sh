@@ -1,5 +1,9 @@
 #!/usr/bin/sh
 
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to use multiple if.
+# How to RUN: "./script_ifif.sh"
+
 echo "Input lengths of sides A B C with space in between:"
 read A B C
 if [ $A -eq $B ]; then 
