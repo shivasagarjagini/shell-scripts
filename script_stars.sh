@@ -1,5 +1,8 @@
 # !/usr/bin/sh
-# This script creates starts.
+
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to print starts.
+# How to RUN: "./script_stars.sh"
 
 echo "Enter number:"
 read n 
