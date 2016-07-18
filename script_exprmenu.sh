@@ -1,5 +1,8 @@
-p
 #!/usr/bin/sh
+
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to choose arithmetic operations and perform calculations.
+# How to RUN: "./script_exprmenu.sh"
 
 echo "Choose an operation to be performed [1, 2, 3, 4, 5, 6, or 7]:"
 echo "1. Addition"
