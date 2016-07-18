@@ -1,6 +1,8 @@
 #!/usr/bin/sh
-# Name: Shiva Sagar
-# This script creates a backup of error_log file.
+
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to maintain log rotation.
+# How to RUN: "./script_log.sh"
 
 # Date format for month date year
 today=`date +"%m%d%Y"`
