@@ -1,5 +1,9 @@
 #!/usr/bin/sh
 
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to display fibonacci series for n numbers.
+# How to RUN: "./script_fibonacci.sh"
+
 echo "Enter number of terms to be generated:"
 read n
 a=0
