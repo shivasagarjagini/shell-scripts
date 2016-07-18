@@ -1,6 +1,8 @@
 #!/usr/bin/sh
-#This scrip is written by Shiva.
-#This is the script for performing arithmetic operations.
+
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to display addition, subtraction, multiplication, division and mod of two integers.
+# How to RUN: "./script_expr.sh"
 
 echo "Input values A and B for results"
 read A B
