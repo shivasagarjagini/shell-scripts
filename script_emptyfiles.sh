@@ -1,5 +1,8 @@
 #!/usr/bin/sh
-# This script is written by Shiva. For any corcerns contact @gmail.com
+
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to display empty files in a path.
+# How to RUN: "./script_emptyfiles.sh"
 
 if [ 'find /home/ec2-user/tomcat/apache-tomcat-8.0.33/logs -type f -size 0' ]; then
 echo "Following files are empty files"
