@@ -1,5 +1,9 @@
 #!/usr/bin/bash
 
+# This Script is written by Shiva Sagar (shivasagarjagini@github.com)
+# Script to create SSL certificate.
+# How to RUN: "./script_ssl.sh"
+
 domain=$1
 
 if [ -z $domain ]
