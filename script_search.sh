@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 # This Script is written by Shiva Sagar (shivasagarjagini@github.com)
 # Script to search a file or word in file.

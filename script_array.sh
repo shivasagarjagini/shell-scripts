@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 # This Script is written by Shiva Sagar (shivasagarjagini@github.com)
 # Script to print a line using array.

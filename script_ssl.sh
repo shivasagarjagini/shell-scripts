@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # This Script is written by Shiva Sagar (shivasagarjagini@github.com)
 # Script to create SSL certificate.
