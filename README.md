@@ -1,2 +1,3 @@
 # shell-scripts
-Sample shell scripts
+
+Shell-scripts for beginners ...
